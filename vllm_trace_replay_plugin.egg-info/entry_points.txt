@@ -1,0 +1,2 @@
+[vllm.platform_plugins]
+trace_replay = trace_replay_plugin:trace_replay_platform_plugin

@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: vllm-trace-replay-plugin
+Version: 0.1.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Requires-Python: >=3.9
+Requires-Dist: vllm>=0.6.0
+Requires-Dist: torch>=2.0.0
+Requires-Dist: transformers>=4.40.0
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
